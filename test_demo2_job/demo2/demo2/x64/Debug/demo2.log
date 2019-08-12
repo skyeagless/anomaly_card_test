@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  demo2.cpp
+e:\学习资源（硕）\lijun_project\anomlay_job_card\test_demo\demo2\demo2\demo2.cpp(86): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\学习资源（硕）\lijun_project\anomlay_job_card\test_demo\demo2\demo2\demo2.cpp(87): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\学习资源（硕）\lijun_project\anomlay_job_card\test_demo\demo2\demo2\demo2.cpp(102): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\学习资源（硕）\lijun_project\anomlay_job_card\test_demo\demo2\demo2\demo2.cpp(107): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  demo2.vcxproj -> E:\学习资源（硕）\LiJun_project\anomlay_job_card\test_demo\demo2\x64\Debug\demo2.exe
